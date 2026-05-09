@@ -1,4 +1,4 @@
-# ⛳ GolfBrain
+# ⛳ GolfBrain™
 ### *Your AI Caddie. One Tap. The Right Shot.*
 
 > *"Tiger Woods spent 5 minutes figuring out that shot. GolfBrain gives every golfer that same decision — instantly."*
