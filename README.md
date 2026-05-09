@@ -532,7 +532,7 @@ This passive learning layer continuously refines your model without any delibera
 
 ## 📸 App Screenshot
 
-![GolfBrain App Screenshot](./golfbrain.jpg)
+![GolfBrain App Screenshot](./GolfBrain.jpg)
 
 ---
 
