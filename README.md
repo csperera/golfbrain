@@ -1,7 +1,7 @@
 # ⛳ GolfBrain™
-### *Your AI Caddie. One Tap. The Right Shot.*
+### *Your AI Caddie. One Tap. Surface The Right Shot.*
 
-> *"Tiger Woods spent 5 minutes figuring out that shot. GolfBrain gives every golfer that same decision — instantly."*
+> *"Tiger Woods spent 5 minutes figuring out a complex, amazing shot. GolfBrain gives every golfer that same decision — instantly."*
 
 ---
 
@@ -47,6 +47,8 @@ GolfBrain does that computation instantly and collapses the decision space to ex
 In the second round of the 2019 World Golf Championships–Mexico Championship, Tiger Woods hit a 132-yard bunker shot on the par-4 9th hole to 11 feet, then two-putted for par.
 
 He was in a greenside bunker. The pin was on the right side of the green. A tree blocked the direct line. Tiger spent approximately 5 minutes working through his options and rehearsing practice swings.
+
+https://youtu.be/Rl_oUUQlk24?si=mbi0s5nMnJGDUF-I
 
 What he did — intentionally — was this:
 
