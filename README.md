@@ -141,7 +141,7 @@ Affects air density and therefore ball carry distance.
 | **Warm (15–25°C / 60–77°F)** | Standard distances |
 | **Hot (above 25°C / 77°F+)** | Ball flies slightly farther; air is less dense |
 
-*For Canadian golfers: early morning rounds in spring can cost you 10+ yards on longer clubs.*
+*For Seasonal golfers: early morning rounds in spring can cost you 10+ yards on longer clubs.*
 
 ---
 
