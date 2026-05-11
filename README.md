@@ -25,7 +25,7 @@
 
 ## What is GolfBrain?
 
-GolfBrain™ is a **personalized AI caddie** that condenses a golfer's full shot menu — 9 Fly-and-Curve™ aerial shapes, 9 Fly-and-Drive™ ground-steered options, plus pitch and chip clock-system variations — into the **top 3 ranked recommendations** based on GPS position, personal dispersion patterns, lie type, and on-the-day conditions.
+GolfBrain™ is a **personalized AI caddie** that condenses a golfer's full shot menu — 9 Fly-and-Curve™ aerial shapes, 9 Fly-and-Drive™ ground-steered rollout options, plus pitch and chip clock-system variations — into the **top 3 ranked recommendations** based on GPS position, personal dispersion patterns, lie type, and on-the-day conditions.
 
 It is not a GPS app.
 It is not a stat-tracking app.
@@ -306,7 +306,7 @@ These two variables create a predictable and repeatable matrix of ground behavio
 
 ---
 
-### The 9 Fly-and-Drive™ Variations
+### The 9 Fly-and-Drive™ Rollout Variations
 
 **1. Severe Left Turn**
 - Path: Outside-in | Face: Closed
