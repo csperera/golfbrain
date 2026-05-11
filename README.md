@@ -275,7 +275,7 @@ GolfBrain uses clock positions to communicate start line:
 
 ## Fly-and-Drive™
 
-Fly-and-Drive™ is GolfBrain's proprietary shot category describing shots where the ball is **intentionally landed short of the final target**, with ground behavior — driven by spin and swing path — used to steer the ball to the hole.
+Fly-and-Drive™ is GolfBrain's proprietary shot category describing shots where the ball is **intentionally landed away from the final target**, with ground behavior — driven by spin and swing path — used to steer the ball to the hole.
 
 Most golfers have accidentally hit Fly-and-Drive™ shots their entire career. Every snap-hook that ran left, every cut that trickled right — that was ground-steered spin. GolfBrain makes it intentional, deliberate, and precise.
 
@@ -680,7 +680,7 @@ GolfBrain is the perfect engineer-founder micro-SaaS: a genuine personal problem
 
 ## The Tagline
 
-> *"Stop deciding. Start executing."*
+> *"Stop overthinking. Start executing."*
 
 ---
 
