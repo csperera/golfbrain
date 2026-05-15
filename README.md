@@ -67,7 +67,7 @@ A 14-handicap golfer standing over that same shot would never have considered it
 
 ## The Variables Every Golfer Must Consider
 
-GolfBrain operates on a single, liberating principle: take the ball as it lies. It does not care how you got there. A snap-hook into the trees 
+GolfBrain operates on a single, liberating principle: **take the ball as it lies**. It does not care how you got there. A snap-hook into the trees 
 and a 280-yard stripe down the middle are identical to GolfBrain — both are just a GPS position, a lie type, and a set of conditions. The shot 
 already played is ancient history. Unlike hardware-dependent systems that track every shot to justify their existence, GolfBrain has no sensors 
 to sell, no watch to pair, and no data pipeline to feed. The only question GolfBrain ever asks is: *"Where are you right now, and what are the 
