@@ -67,7 +67,7 @@ A 14-handicap golfer standing over that same shot would never have considered it
 
 ## The Variables Every Golfer Must Consider
 
-GolfBrain operates on a single, liberating principle: **take the ball as it lies**. It does not care how you got there. A snap-hook into the trees 
+GolfBrain operates on a single, liberating principle: *take the ball as it lies*. It does not care how you got there. A snap-hook into the trees 
 and a 280-yard stripe down the middle are identical to GolfBrain — both are just a GPS position, a lie type, and a set of conditions. The shot 
 already played is ancient history. Unlike hardware-dependent systems that track every shot to justify their existence, GolfBrain has no sensors 
 to sell, no watch to pair, and no data pipeline to feed. The only question GolfBrain ever asks is: *"Where are you right now, and what are the 
@@ -546,10 +546,10 @@ This passive learning layer continuously refines your model without any delibera
 
 ## Version 1 Objectives
 
-**Platform:** PWA (Progressive Web App) — offline-first, installable on iPhone home screen
-**Course:** Peel Village Golf Course, Brampton, Ontario (9 holes) only
-**User:** Single user (developer)
-**Backend:** None — fully client-side
+**Platform:** PWA (Progressive Web App) — offline-first, installable on iPhone home screen  
+**Course:** Peel Village Golf Course, Brampton, Ontario (9 holes) only  
+**User:** Single user (developer)  
+**Backend:** None — fully client-side  
 
 ### V1 Feature Set
 
@@ -602,9 +602,9 @@ Standing on any hole at Peel Village, tap lie type, receive 3 ranked shot recomm
 
 ## Version 2 Objectives
 
-**Platform:** PWA (expanded) + potential native app consideration
-**Courses:** Multi-course via golf course data API (iGolf or equivalent)
-**Users:** Multi-user with accounts
+**Platform:** PWA (expanded) + potential native app consideration  
+**Courses:** Multi-course via golf course data API (iGolf or equivalent)  
+**Users:** Multi-user with accounts  
 
 ### V2 Feature Set
 
@@ -690,6 +690,6 @@ GolfBrain is the perfect engineer-founder micro-SaaS: a genuine personal problem
 
 ---
 
-*GolfBrain is built and maintained by a golfer, for golfers.*
-*Fly-and-Drive™ and Fly-and-Curve™ are proprietary shot classification systems.*
-*V1 is Peel Village only. V2 is everywhere.*
+*GolfBrain is built and maintained by a golfer, for golfers.*  
+*Fly-and-Drive™ and Fly-and-Curve™ are proprietary shot classification systems.*  
+*V1 is Peel Village only. V2 is everywhere.*  
