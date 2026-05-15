@@ -59,9 +59,9 @@ What he did — intentionally — was this:
 
 He controlled the ball's behavior **after it landed**. On purpose. That is Fly-and-Drive™.
 
-A 14-handicap golfer standing over that same shot would never have considered it. Their brain, under pressure, would default to "try to fly it at the pin" or "splash it out safe." The Fly-and-Drive™ option — the highest EV shot on that hole in those conditions — simply wouldn't exist in their mental menu.
+A 14-handicap golfer standing over that same shot would never have considered it. Their brain, under pressure, would default to "try to fly it at the pin" or "lay-up and splash it out safe." The Fly-and-Drive™ option — the highest EV shot on that hole in those conditions — simply wouldn't exist in their mental menu.
 
-**GolfBrain puts it there.**
+### *GolfBrain™ puts it there.*
 
 ---
 
